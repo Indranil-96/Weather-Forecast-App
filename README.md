@@ -9,4 +9,4 @@ Currently, two official plugins are available:
   
 To install all dependencies- npm i
 
-To run the project- npm rin dev
+To run the project- npm run dev
